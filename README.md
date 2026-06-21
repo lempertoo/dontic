@@ -3,9 +3,6 @@
 ## Overview
 Event planning helper
 
-## Why this project?
-This repository was created as sample project #20 with its own structure and documentation style.
-
 ## Features
 - Lightweight design
 - Easy to extend
