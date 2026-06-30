@@ -1,5 +1,5 @@
 # event-planner
 
 ## Overview
-Event planning helper
+Event planning helper todo
 
