@@ -33,7 +33,7 @@ The project demonstrates working with Python data structures, functions, sorting
 2026-07-15 | Team Meeting
 2026-07-18 | Doctor Appointment
 2026-07-22 | Birthday Party
-2026-07-28 | Weekend Trip
+2026-07-28 | Weekend run
 
 ----------------------------
 Total events: 4
